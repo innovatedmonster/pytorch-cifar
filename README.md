@@ -1,6 +1,6 @@
 # Train CIFAR10 with PyTorch
 
-I'm playing with [PyTorch](http://pytorch.org/) on the CIFAR10 dataset.
+I'm playing with [PyTorch](http://pytorch.org/) on the CIFAR10 dataset. Here is [blog](https://www.jianshu.com/p/cca7b316caca).
 
 ## Prerequisites
 - Python 3.6+
@@ -33,3 +33,7 @@ python main.py --resume --lr=0.01
 | [DPN92](https://arxiv.org/abs/1707.01629)             | 95.16%      |
 | [DLA](https://arxiv.org/pdf/1707.06484.pdf)           | 95.47%      |
 
+## Pretrained Models
+[预训练模型下载-谷歌](https://drive.google.com/drive/folders/1PLwxkczvKq86ATRD7SB-5w31omuORUNV)
+
+[预训练模型下载-百度](https://pan.baidu.com/s/1oUfaxFnghIdClCFMf3A11Q#list/path=%2F)
